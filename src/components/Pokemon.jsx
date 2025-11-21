@@ -83,7 +83,7 @@ const Pokemon = () => {
 
   return (
     <div className="app-container">
-      <h1>Pokémon</h1>
+      <h1>Project 3 - JD</h1>
       <SearchBar onSearch={fetchSearchData} onFetchRandom={fetchPokemon} />
       {loading && (
         <div className="loader" id="loader">
