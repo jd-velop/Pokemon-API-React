@@ -1,11 +1,11 @@
 # Project 3 — Vite + React
 
-A small Vite + React starter project (created from the default Vite React template). It includes a minimal app, basic global styles, and a component stylesheet for `App`.
+A small, interactive PokéAPI viewer and stat summarizer with styling based on Pokémon type
 
 ## Prerequisites
 
-- Node.js (recommended LTS). Use your preferred Node version manager if needed.
-- npm (or `pnpm` / `yarn` if you prefer — adjust commands accordingly).
+- Node.js
+- npm
 
 ## Setup
 
@@ -19,15 +19,6 @@ Start the development server:
 
 ```powershell
 npm run dev
-```
-
-Build for production:
-
-```powershell
-npm run build
-
-# Preview the production build locally
-npm run preview
 ```
 
 ## Note from Author
